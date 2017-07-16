@@ -1,0 +1,42 @@
+|----------| ANONISMA MA DZ TN V3 TEXT RESULT |--------------|
+|----------+| LOGIN |+--------------|			
+|E-M-L      :  a@a.fr			
+|P-S-S-D    :  6ddfff24		    
+|----------+| BILLING |+--------------|		
+|C-T-R-Y    :  Netherlands		
+|D-B-R-T    :  11/11/1111 		
+|P-H-N      :  111111111111111			
+|I-P        :  108.61.103.71 					
+|----------+| CARD |+--------------|			
+|C-H-D-R    :  111 		
+|C-N-B-R    :  1111 1111 1111 1111		
+|C-V-V      :  1111 			
+|E-X-P      :  11/11 		
+|----------+| VBV |+--------------|			
+|S-R-C-D    :  gd 			
+|S-C-C-D    :  fd 			
+|S-S-N      :   			
+|--- http://www.geoiptool.com/?IP=108.61.103.71 ----	
+|----------| ANONISMA MA DZ TN V3 TEXT RESULT |--------------|
+|----------| ANONISMA MA DZ TN V3 TEXT RESULT |--------------|
+|----------| ANONISMA MA DZ TN V3 TEXT RESULT |--------------|
+|----------+| LOGIN |+--------------|			
+|E-M-L      :  vlk-19@azet.sk			
+|P-S-S-D    :  JOZEFdancso1971995		    
+|----------+| BILLING |+--------------|		
+|C-T-R-Y    :  Germany		
+|D-B-R-T    :  19/07/1995 		
+|P-H-N      :  +4917647855780			
+|I-P        :  89.204.138.167 					
+|----------+| CARD |+--------------|			
+|C-H-D-R    :  Jozef 		
+|C-N-B-R    :  2354 6725 8921 6873		
+|C-V-V      :  824 			
+|E-X-P      :  12/22 		
+|----------+| VBV |+--------------|			
+|S-R-C-D    :  34589 			
+|S-C-C-D    :  69451 			
+|S-S-N      :  652-79-8543 			
+|--- http://www.geoiptool.com/?IP=89.204.138.167 ----	
+|----------| ANONISMA MA DZ TN V3 TEXT RESULT |--------------|
+|----------| ANONISMA MA DZ TN V3 TEXT RESULT |--------------|
